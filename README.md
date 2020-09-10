@@ -1,4 +1,4 @@
-<img src="https://github.com/FlexPayIO/DirectScale/flexpay.jpg" alt="FlexPay">
+<img src="https://github.com/FlexPayIO/DirectScale/blob/master/flexpay.jpg" alt="FlexPay">
 
 ### What is Direct Scale Package?
 
