@@ -11,7 +11,7 @@
 
 
 ```
-PM> Install-Package AutoMapper
+PM> Install-Package FlexPay.DirectScale
 ```
 
 ### Do you have an issue?
